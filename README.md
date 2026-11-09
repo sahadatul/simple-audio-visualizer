@@ -63,9 +63,9 @@ Then open http://localhost:8000
 
 ## Host on GitHub Pages
 
-Repo → **Settings** → **Pages** → Deploy from a branch → `main` / `(root)`. The app opens at `https://github.io/sahadatul/simple-audio-visualizer`.
-or
-Repo → **Settings** → **Pages** → Deploy from a branch → `main` / `(root)`. The app opens at `https://github.com/sahadatul/simple-audio-visualizer`.
+- Repo → **Settings** → **Pages** → Deploy from a branch → `main` / `(root)`. The app opens at `https://github.io/sahadatul/simple-audio-visualizer`.
+- or
+- Repo → **Settings** → **Pages** → Deploy from a branch → `main` / `(root)`. The app opens at `https://github.com/sahadatul/simple-audio-visualizer`.
 
 ## How it works
 
