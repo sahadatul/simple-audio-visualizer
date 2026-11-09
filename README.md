@@ -4,7 +4,7 @@
 
 Turn any song into a music visualizer video. Load an audio file, style the scene, and record it as an MP4 with the song's audio. It is one HTML file: no install, no build, no upload.
 
-![Simple Audio Visualizer](/screenshots/main.png)
+![Options panel](/screenshots/options.png)
 
 ## Purpose
 
@@ -19,8 +19,6 @@ Make shareable lyric-free music visuals for reels, shorts, posts and YouTube wit
 5. When it finishes, confirm the download. Keep the tab open until then.
 
 Tip: the title is filled in from the file name. Edit it under **Song title**.
-
-![Options panel](/screenshots/options.png)
 
 ## Options
 
@@ -65,7 +63,7 @@ Then open http://localhost:8000
 
 ## Host on GitHub Pages
 
-Repo → **Settings** → **Pages** → Deploy from a branch → `main` / `(root)`. The app opens at `https://sahadatul.github.io/simple-audio-visualizer/`.
+Repo → **Settings** → **Pages** → Deploy from a branch → `main` / `(root)`. The app opens at `https://github.com/sahadatul/simple-audio-visualizer`.
 
 ## How it works
 
