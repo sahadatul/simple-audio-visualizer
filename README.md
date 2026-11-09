@@ -4,6 +4,8 @@
 
 Turn any song into a music visualizer video. Load an audio file, style the scene, and record it as an MP4 with the song's audio. It is one HTML file: no install, no build, no upload.
 
+![Simple Audio Visualizer](/screenshots/main.png)
+
 ## Purpose
 
 Make shareable lyric-free music visuals for reels, shorts, posts and YouTube without video-editing software. The visuals react to the song in real time: the soul pulses with the bass, the rings and bars follow the spectrum, and the wave line follows the waveform.
@@ -18,6 +20,9 @@ Make shareable lyric-free music visuals for reels, shorts, posts and YouTube wit
 
 Tip: the title is filled in from the file name. Edit it under **Song title**.
 
+![Options panel](/screenshots/options.png)
+
+## Options
 
 | Group | What you can change |
 | --- | --- |
@@ -36,6 +41,10 @@ Your choices are remembered in the browser. **Reset options** restores the defau
 ## Styles
 
 16:9, 9:16 and 1:1 with different options:
+
+| 16:9 | 9:16 | 1:1 |
+| --- | --- | --- |
+| ![16:9](/screenshots/style-16x9.png) | ![9:16](/screenshots/style-9x16.png) | ![1:1](/screenshots/style-1x1.png) |
 
 ## Export notes
 
